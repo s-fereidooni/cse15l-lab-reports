@@ -1,8 +1,14 @@
-***greetings, fellow learner!***
-Welcome to Sonia's personal website!
+***Welcome to Sonia's personal website!***
+```
+# code block
 
+print 'greetings, fellow learner!'
+```
 
 ![image](pexels-antonio-batinić-4164418.jpg)
+
+# Weeks
+- [Lab Report 1](lab-report-1-week-0.md)
 
 # Projects
 ## Project 1
