@@ -19,6 +19,7 @@ In this lab we will be learning how to log into a course-specific account on ien
 ![](passwordreset.png)
 
 - Then, go on VS Code, open a new terminal, and enter the following command (takes place on your local device) :
+
 ```
 # code block
 
