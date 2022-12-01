@@ -128,3 +128,13 @@ Run the bash script
 ![](bashvim.png)
 
 ![](bashvim2.png)
+
+**Questions**
+1. **Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)**
+
+    *Personally, I would prefer using vim to work on a remotely run program because with vim you can be already signed into an ssh session and make the edit remotely and proceed to run it remotely. In addition, vim takes less keystrokes to complete the task. Meanwhile, making the edit with scp would require more time spent on manually control F and scp'ing, which would make the task less efficient.*
+
+2. **What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)**
+
+    *If the task deals mostly with making small edits to preexisting code that could be done easily with vim commands, I would probably choose vim. However, if the task involves writing a program from scratch, or writing masses of code, I would probably prefer using an editor like VS Code and scp'ing. This is because vim does not have the best interface for writing code from scratch, and is meant more for making quick edits. Meanwhile, VS Code has a very intuitive interface designed for debugging and writting nicely formatted code.*
